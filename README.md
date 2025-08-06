@@ -22,20 +22,17 @@ To complete this homework you should use the Git workflow you've been learning t
 Finally, you'll need to get others to review your work! 
 You can do this by creating a **pull request**!
 
-To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
+To learn more about **pull requests** and how to create one, please use this guide from Code Your Future👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
 
 9. Open a `Pull Request` to this repository
 
-## How to check your work?
-If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkTest/pulls.
-
 Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692
 
-**Please note that your PR will not undergo an official review, as none is required.** Most PRs at CodeYourFuture get reviewed, but this one is just for you to practice creating them.
+**Please note that your PR will not undergo an official review, as none is required, this one is just for practice** 
 
 ## Asking for Help
 
-If you've had problems with any of the steps above, ask for help on Slack - another trainee or a volunteer will be able to help you!
+If you've had problems with any of the steps above, ask for help on Slack a peer or a volunteer will be able to help you!
 
 When you ask for help you should always say what exactly isn't working
 

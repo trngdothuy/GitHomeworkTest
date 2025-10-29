@@ -22,11 +22,10 @@ To complete this homework you should use the Git workflow you've been learning t
 Finally, you'll need to get others to review your work! 
 You can do this by creating a **pull request**!
 
-To learn more about **pull requests** and how to create one, please use this guide from Code Your Future👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
+To learn more about **pull requests** and how to create one, please use this guide 👉 https://migracode-itp.netlify.app/how-to-do-a-good-pr/
+9. Open a `Pull Request` from the branch `bio-page`to your own Main repo (NOT MIGRACODE repo)
 
-9. Open a `Pull Request` to this repository
-
-Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692
+Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692 - Keep in mind that this example come from CYF, so the convention to name the PR is based on them, be sure to review well the PR Guide above to have the proper naming of the PR.
 
 **Please note that your PR will not undergo an official review, as none is required, this one is just for practice** 
 

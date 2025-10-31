@@ -1,0 +1,5 @@
+i. Your name: Trang Do
+ii. Your favourite sport and why you like it: I like yoga because it makes me feel relaxed and peaceful while help my body flexible
+iii. Your favourite food and why it's your favourite: I love Bun Rieu - it's a dish with Bun (kind of similar to noodles but it's very different), and soup made from crab meat and tomato. I love it because it's a very tasty dish from my hometown - Hanoi, to be specific, the area near the Red River of Vietnam. And it is made in a very delicated and graceful way to keep the lightly sour taste and smell. It reminds me the time I spent with my family and my friends because I always eat it with them.  
+iv. A link to a video of your favourite music: https://www.youtube.com/watch?v=0CWVgu2Odjg&list=RD0CWVgu2Odjg&start_radio=1
+v. An interesting fact about yourself - impress us!: Well nothing much to impress. I like nature and science. I love looking at the sky. I love sunrise, sunset, and the Moon. I like taking care of plants and flowers, I have 29 "babies" in my garden.   
